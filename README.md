@@ -2,7 +2,7 @@
 
 The Lorenz attractor is a well-known example of a chaotic system that exhibits complex, non-linear behavior. It was discovered by Edward Lorenz in 1963 while studying atmospheric convection. The attractor is defined by a set of three coupled differential equations, and its visualization provides fascinating insights into chaotic dynamics.
 
-![Lorenz Attractor](lorenz_attractor.png)
+![Lorenz Attractor](https://github.com/victormeloasm/LorenzAttractor/blob/main/Example.jpg)
 
 ## How it Works
 
